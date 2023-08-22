@@ -33,4 +33,8 @@ Link to: `Home, Profile and Logout`
 
 <h2 id="2"> Deployment<h2>
 
+```npm start```
+
+OR
+
 ```docker-compose -f docker-compose.dev.yml up```
